@@ -8,3 +8,19 @@ Repositorio oficial del Trabajo Final de Grado (Mención Computación) desarroll
 ## 📌 Resumen del Proyecto
 
 Este proyecto evalúa y compara la viabilidad de generar reconstrucciones densas en entornos exteriores utilizando *priors* geométricos extraídos de sistemas clásicos (COLMAP) frente a modelos basados en aprendizaje profundo de última generación (MASt3R).
+
+## 🛠️ Requisitos e Instalación
+
+
+## 🚀 Flujo de Trabajo (Uso)
+
+
+## 📊 Conjunto de Datos (Dataset)
+*Nota:* Por restricciones de tamaño, los *vídeos originales no están incluidos en este repositorio.*
+Puedes descargar el dataset de validación utilizado en este proyecto desde el siguiente enlace: **\[Enlace a Google Drive...\]**
+
+## 📚 Referencias Principales
+
+
+---
+*Defensa programada para el curso académico 2025/2026.*

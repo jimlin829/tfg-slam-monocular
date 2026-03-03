@@ -1,0 +1,16 @@
+# Ignorar carpetas de datos pesados
+data/
+results/
+
+# Ignorar archivos pesados de IA y 3D
+*.ply
+*.pth
+*.pt
+*.mp4
+*.avi
+
+# Ignorar archivos de Python y sistema
+__pycache__/
+*.pyc
+.DS_Store
+.env
