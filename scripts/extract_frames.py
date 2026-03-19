@@ -40,8 +40,8 @@ for video_path in video_files:
         ret, frame = cap.read()
         if not ret:
             break
-        # Guardar 1 de cada 3 frames
-        if frame_count % 3 == 0:
+        # Guardar 1 de cada 5 frames
+        if frame_count % 5 == 0:
             frame_path = os.path.join(output_folder, f'frame_{frame_count:04d}.png')
 
             # Volvemos a usar cv2.imwrite y comprobamos si el guardado tuvo éxito.
