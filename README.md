@@ -1,6 +1,6 @@
 # Estudio de Técnicas de SLAM Monocular en Exteriores
 
-[![Python](https://img.shields.io/badge/Python-3.13.7-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Repositorio oficial del Trabajo Final de Grado (Mención Computación) desarrollado por **Yanhao Lin** en la **Universitat Autònoma de Barcelona**. Tutorizado por Felipe Lumbreras Ruiz.
