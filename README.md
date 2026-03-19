@@ -17,7 +17,7 @@ Este proyecto evalúa y compara la viabilidad de generar reconstrucciones densas
 
 ## 📊 Conjunto de Datos (Dataset)
 *Nota:* Por restricciones de tamaño, los *vídeos originales no están incluidos en este repositorio.*
-Puedes descargar el dataset de validación utilizado en este proyecto desde el siguiente enlace: **\[Enlace a Google Drive...\]**
+Puedes descargar el dataset de validación utilizado en este proyecto desde el siguiente enlace: **[Dataset de Validación - Google Drive](https://drive.google.com/drive/folders/1FOArF6JBQf7Q7EZoVHLURKsHRIEo-llb?usp=sharing)**
 
 ## 📚 Referencias Principales
 
